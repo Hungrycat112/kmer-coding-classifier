@@ -1,4 +1,6 @@
 # kmer-coding-classifier
+
+# kmer-coding-classifier
 Predicts whether a DNA sequence is coding or noncoding using k-mer frequencies + ML 
 
 This is a bioinformatics tool that classifies short DNA sequences (e.g. 300bp) as coding or noncoding, based on their k-mer frequency profiles. The model is implemented from scratch in Python using only NumPy, and aims to help explore simple, interpretable ML in genomics.
